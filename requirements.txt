@@ -1,0 +1,7 @@
+pyOpenSSl==0.13.1
+pyparsing==20.01
+python-dateutil==1.5
+pytz==2013.7
+scipy==0.13.0b1
+six==14.1
+virtualenv==16.30
